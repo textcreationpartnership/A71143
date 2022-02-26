@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true &amp; exact relation of the several passages at the siege of Manchester, between the Lo. Strange his forces, and the towne : wherein is evidently seene the wonderfull mercy of God in their deliverance / written by one that was an eie-witnesse, and an actor in most of that service ; also a protestation of Master Hotham, and divers other knights and gentlemen, against the 14. articles of pacification, and neutrality.</title>
+            <author>One that was an eie-witnesse.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71143</idno>
+            <idno type="STC">Wing T2462A</idno>
+            <idno type="STC">ESTC R22611</idno>
+            <idno type="EEBO-CITATION">12364392</idno>
+            <idno type="OCLC">ocm 12364392</idno>
+            <idno type="VID">60359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 900:31, 991:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true &amp; exact relation of the several passages at the siege of Manchester, between the Lo. Strange his forces, and the towne : wherein is evidently seene the wonderfull mercy of God in their deliverance / written by one that was an eie-witnesse, and an actor in most of that service ; also a protestation of Master Hotham, and divers other knights and gentlemen, against the 14. articles of pacification, and neutrality.</title>
+                  <author>One that was an eie-witnesse.</author>
+                  <author>Hotham, John, d. 1645 Jan. 1.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Blackmore ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 12. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term>Manchester (England) --  History --  Siege, 1642.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60359:1"/>
+            <pb facs="tcp:60359:1" rendition="simple:additions"/>
+            <p>A true &amp; exact Relation of the ſeveral paſſages at the Siege of MANCHESTER, Between the Lo: STRANGE his Forces, and the Towne.</p>
+            <p>VVherein is evidently ſeene the won<g ref="char:EOLhyphen"/>derfull mercy of God in their deliverance.</p>
+            <p>
+               <hi>Written by one that was an eie-witneſſe, and an Actor in moſt of that ſervice.</hi>
+            </p>
+            <p>Alſo a Proteſtation of Maſter <hi>Hotham,</hi> and divers other Knights and Gentlemen, againſt the 14. Articles of Pacification, and Neutrality.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Blackmore,</hi> at the Angel in <hi>Pauls</hi> Churchyard. <hi>Octob.</hi> 12. 1642.</p>
+            <pb facs="tcp:60359:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60359:2"/>
+            <head>
+               <hi>An exact relation of the ſeverall paſſages at the ſiege of</hi> MANCHESTER.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Aterday the 25. of September, 1642. the Lord <hi>Strange</hi> having the fortnight paſt drawn to <hi>War<g ref="char:EOLhyphen"/>rington</hi> great Forces of Horſe and Foot, was fea<g ref="char:EOLhyphen"/>red to have intended ſomthing againſt our town, yet could not any certainty (by any ſure ground of appearance) be gathered, yet upon that night about ten of the clock, a letter came from <hi>Warrington</hi> aforeſaid, intimating that the Lo: <hi>Strange</hi> was comming with great pow<g ref="char:EOLhyphen"/>er to diſarme us, this was ſeconded, and that foure great pieces upon cariages were on the way, &amp; his purpoſe was to aſſault the Towne very early in the morning. This wrought in us great feare and a generall aſtoniſhment, there being in our towne ſome few gentlemen, Maſter <hi>Hellaude,</hi> Maſter <hi>Edgerton,</hi> Maſter <hi>Dun<g ref="char:EOLhyphen"/>kefienld,</hi> Maſter <hi>Booth,</hi> Maſter <hi>Hide,</hi> Maſter <hi>Roſworme</hi> a Ger<g ref="char:EOLhyphen"/>man, whom God hath ſent into our Towne a little before, who the night before had finiſhed the mud-walls and chains, that were done by his directions at the ſeverall paſſages of our town: Alſo Captain <hi>Bradſhaw.</hi> Theſe being preſent in Town, cooſulted about an houre with the chiefe of the Towne, and then it was concluded that the drum ſhould beat up, the bells ring croſſe to
+<pb n="2" facs="tcp:60359:3"/>
+give the Countrey notice, and every man within to ſtand to his Arms, &amp; before the morning light, notice was given that they were very nigh the towne, at which being by ſcouts diſcovered, every paſſage was as well manned as that preſent time would admit, which by reaſon of ſome Country Forces that were come unto us, our Neighbours and towne all joyneing, kept them of a ſuddaine Aſault, which cauſed them to take up ſome houſes and paſſages very neare the town at three principall paſſages, South, North, and Weſt, to hinder us of the leaſt both of men and pro<g ref="char:EOLhyphen"/>viſion, the Lord <hi>Strange</hi> his Forces (as is certainly Re<g ref="char:EOLhyphen"/>ported) was about two thouſand Foot, ſome ſay, four, five, or ſix thouſand, are betwixt five and ſix hundred horſe, ſix great peeces of ordnance, they being ſetled, ſent word to Require the Armes of our towne, and to billet an hundred men, which being denyed them, two Gentlemen from our towne were ſent to know the Reaſon of my Lords comming in that manner againſt the Kings Subjects, one of them was kept two or three howers, but at length got Releaſt.</p>
+            <div n="Sunday" type="day">
+               <head>Sunday.</head>
+               <p>THis day (being the Lords day) paſſed away with great fears and troubles as the like was never ſeene in <hi>Mancheſter,</hi> yet it pleaſed God to ſend us ſome ayd from ſeverall Adjacent parts, ſo that before the next day at noone, there was about one thou<g ref="char:EOLhyphen"/>ſand men i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompleat Armes within our town, moſt of them musketiers.</p>
+            </div>
+            <div n="Monday" type="day">
+               <pb n="3" facs="tcp:60359:3"/>
+               <head>Munday.</head>
+               <p>MUnday they ſtrengthened the paſſages as well as the Fort could do; Captain <hi>Bradſhaw</hi> the Denſe gate end, Captain <hi>Ratcliffe</hi> the market ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te lan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Cap: <hi>Booth</hi> the Mill gate, Captaine <hi>Roſworme</hi> the Brige againſt Sawford way, Li<g ref="char:EOLhyphen"/>ſtermain, Barwick, the Hunts ban<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd a company of reſolute Souldiers the Sned hill without any commander, towards the Afternoone it was obſerved that divers Horſemen of the Lord <hi>Stranges</hi> went out to aſault the towne Eaſtward, or to have ſtopped the way, which being taken notice of, Captaine <hi>Brad<g ref="char:EOLhyphen"/>ſhaw</hi> with about 30. Musketiers iſſued forth, Shot Sharply at them and made them retire backe with haſt towards their places of Randevouze.</p>
+               <p>Notwithſtanding there were then laid betwixt our men and that place 40. or 50. Musketiers that playd very vehemently upon them, and having the advantage alſo of a Ditch-bancke, our men feareing that they ſhould be compaſt in with them, Retreated without any loſſe or hurt to the Denſe-gate ende; the place that was firſt aſſaulted.</p>
+               <p>And preſently after that, divers of our enemies ſtoale downe to the ende of a great Barne that was full of Corne and Haye, and ſet it on Fire with ſome other buildings that was betwixt them and the new made Mudd-wall, the ſame being about an Hundted and Fifty yards diſtant, they gathered togeather (the Barne begining to burne) and thought to take the advantage of the ſmoake to cover them, and by a ſuddaine ſhot to have driven our men from their Fort, which aſſaying to doe, were anſwered ſo well by our ſhot, that they were beaten backe, and a cheife Commander of their Horſe ſlaine, with divers others of their Souldiers. This figh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> continued for the ſpace of three quarters of an houre in a vehement maner, our enemy having another com<g ref="char:EOLhyphen"/>pany of foote to have ſeconded the firſt, and behind them a great force of Horſe to have come on, but their welcome (by the grace of God) was ſo hott that they durſt not aproach nearer but re<g ref="char:EOLhyphen"/>tired
+<pb n="4" facs="tcp:60359:4"/>
+backe, in this fight was not one of our men touched, ſave that an unskilfull man (whoſe Musket was ready to be diſcharg<g ref="char:EOLhyphen"/>ed) let it fly at unwares and ſtrooke one of his fellows through the necke that he died <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that was thus ſlaine, was Ser<g ref="char:EOLhyphen"/>vant to Maſter <hi>Ashto<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> of <hi>Milelton.</hi>
+               </p>
+               <p>Now when the flame of t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fiered barne appeared (which might have diſcouraged all ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts, had not the Lord ſuppor<g ref="char:EOLhyphen"/>ted us) came down from <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the foot of the bridg, great ſtore of horſe and foot of me Lord <hi>Stranges</hi> with a ſudden ſhout, and Aſſayd to enter, but were ſo Anſwered with our ready ſhot, that they durſt not ventur on it again, At which fight tis ſayd ſome Commanders were cut off, and many Common Souldyers, for ſome lay dead in the ſtreet (that they durſt not come near all the next day for feare of our ſhot): the night begining to aproach great care was uſed for our ſafety and with great feare the night paſſed on, About twelve of the Clock that night came (at the bottom of the parſonage) tis thought an hundred or an hundred and fifty men down by the water ſide, Intending to have fired the towne by ſome ſtacke of faggets that lay cloſe behinde the houſes, but four men ſtanding Sentinell at that back paſſage, with the help of 8. men more that came in unto them, drove and for<g ref="char:EOLhyphen"/>ced them back, how the Lord preſerved theſe twelve men tis wonderful, for as the enemy ſhot fiercely at them before, ſo their own friends behind them, (not knowing who they were) ſhot as fiercely at them, yet God bee prayſed none of them were touched, the night paſſed on with great fear.</p>
+            </div>
+            <div n="Tuesday" type="day">
+               <head>Tewſday.</head>
+               <p>THe next morning were planted ſome Ordnance, which firſt played upon the Deans gate end, the firſt ſhot ſtruck off 2. ridge tiles of a barn, and the bullet feldown among our Soldiers, the fight whereof did ſome what terrifie them, but their Cap: en<g ref="char:EOLhyphen"/>couraged the<g ref="char:cmbAbbrStroke">̄</g> ſo as by little and little they were drawn paſt fear<hi>:</hi> they ſhot ſeverall times again but did no hurt at all, then they planted two ereat peeces at Sawford, to batter downe about
+<pb n="5" facs="tcp:60359:4"/>
+that paſſage that came forth over the bridge, and ſhot twice, then my Lord <hi>Strange</hi> ſent a Trumpeter to require paſſage through our Towne with his Forces, but that was refuſed, then played foure great pieces with great violence, the bullets ſhooting through and through divers houſes ſo that the bullets came tum<g ref="char:EOLhyphen"/>bling amongſt us like balls but did no harme to any, only one boy (that was a wicked Childe, having overrun his parents) was with Cannon ſhot mortally wounded, by gazing in the face of the enemy, at a work made by the mudwall, who within a few houres died, then preſently followed out a troop of their horſe to ſtop part of the paſſage Eaſt-ward, but ſome of our muſquetiers iſſuing forth at the market-ſteed-lane, drove them back, in which fight one of our bill men only was ſhot into his ſhoulder, the ſhooting continued with ſuch vehemencie, then it is ſcarce cre<g ref="char:EOLhyphen"/>dible to beleeve ſo little hurt ſhould be done, our town lying ſo open and naked on all ſides, in the Afternoone ſeven of our men went over the bridge to ceaſe upon a houſe that commanded the bridg, but were preſently diſcovered, this night paſſed away with great feare and trouble.</p>
+            </div>
+            <div n="Wednesday" type="day">
+               <head>Wedneſday.</head>
+               <p>ON Wedneſday morning our ſeven men were ſurpriſed in the ſaid houſe, and taken, and divers of our enemies were placed in their roomes; then they fell to ſhooting againe, which wee likewiſe anſwered, and Fortifications were ſoone made, that no great hurt was done to us. In the afternoone a man was ſhot into the leg as he was croſſing downe to goe to his guard, and another of our Bel-men was by peeping forth of his Rank ſhot through the head with a bullet and dyed. This night continued with ſuch ſhooting betwixt us and <hi>Salford,</hi> as the like hath not been heard. One of our men, his musket breaking (in the Church-yard) ſtruck off his hand. The ſame evening they made an aſſault on the Sned-hill, but were beaten back. The Troo<g ref="char:EOLhyphen"/>pers went out into the Country this day to rob and ſpoile a<g ref="char:EOLhyphen"/>bout two miles from our towne, where two or three Musque<g ref="char:EOLhyphen"/>tiers
+<pb n="6" facs="tcp:60359:5"/>
+and five or ſixe Bill-men chaſed them and routed them; and tooke foure Horſe, and ſlew one, and five men that evening, be<g ref="char:EOLhyphen"/>ſides many other priſoners were taken and brought into our towne, with ſome Armes, About ſeven of the clock in the evening, notice was given that they had a deſigne to fire our Towne, but ſtore of raine fell that evening, which proved much to our advantage; for the waters were raiſed, and they could not ſo readily paſſe over the rivers; yea ſome one cry<g ref="char:EOLhyphen"/>ed within the compaſſe of the Watch, Fire, Fire, which gave the Alarum, and ran quickly through the towne, which put us in great feare, but proved nothing. Warning was given to all men that they ſhould watch their own houſes both within and without. About eleven of the Clock at night, the enemy made an Aſſault at the eaſt-ſide of the towne, and came upon the Brick croft with a great ſhout and a ſuddain diſcharge, where there lay 8 of our men in the brick kill, who had Fortified them<g ref="char:EOLhyphen"/>ſelves there, and Anſwered the other with as ſudden a ſhott as they could, They continewed ſhooting the ſpace of an hower, and then the Cavaliers began to Retreate. In this fight one of the poore men in the brick kill ſhot of two of his little fingers of one hand, and his hand alſo bruſed by the burſting of his peece.</p>
+               <p>This night was very greevous to our men, they being almoſt quite ſpent with watching, and toyling, and running to and fro that beyond the ordinary courſe of Nature they held out: that Night it pleaſe God to ſend us about twelve of the Clock about 80 musketiers and pikes, eleven wherof were ſlain as they came to the towne, by ſeven of the enemies who lay ſecretly in the way as they ſhould paſſe and ſhot them ſuddenly, which was a great greef to their fellowes, theſe when they came in Ioyned themſelves to Captain Bradſhaw they being his neigbours, which ſtrengthned him very much, hee having indured a ſharp, long, and bitter time of it. A great ſtrength lying againſt that paſſage to enter there that night, before it was morning, were brought two great peeces and placed at the head of <hi>Salford,</hi> to come down to the foote of the bridge to make open way by driving down our works and our men from them.</p>
+               <pb n="7" facs="tcp:60359:5"/>
+               <p>But on the Wedneſday morning, it being eſpied, care was ta<g ref="char:EOLhyphen"/>ken how to prevent that danger. Shooting continued ſtill very vehemently till towards the afternoone; then his Lordſhip ſent for a Treatie, requiring a thouſand Armes; we were then in a great ſtraight, having powder and ſhot, but no match, neither had any way to get any; time was required till ſeven the next morning; whereupon the Lord <hi>Strange</hi> engaged his honour, that nothing ſhould be done in that time; in which time his Souldiers went about the worke they came for, that was to pil<g ref="char:EOLhyphen"/>lage and play the theeves in the Countrey all there abouts: in this little time of ceſſation, there was ſome man in our Towne that had ſeene the making of Match, and had thereby gained ſome little inſight in the making thereof, he fell to worke, and gave direction about the making thereof, and performed it well, and got ſupply of Match; and our Souldiers being a little refreſhed by reſt and ſleepe, did mightily incourage one another to ſtand to it, and would admit of no Parley; the Gentlemen being in<g ref="char:EOLhyphen"/>clinable to condeſcend, but the Souldiers expreſſing a great un<g ref="char:EOLhyphen"/>willingneſſe, by a generall ſhout of Captaine <hi>Bradſhaws</hi> Compa<g ref="char:EOLhyphen"/>ny, declared that they would part with their Armes and lives together. Now his Lordſhips Souldiers began to ſtart aſide, for they would not come neare but gave backe; for by reaſon of cold, and wet, hunger and thirſt, and labour, want of ſleepe, and a bitter welcome that we gave them, their hearts were diſcoura<g ref="char:EOLhyphen"/>ged mightily, in ſo much, that unarmed men of ours tooke cou<g ref="char:EOLhyphen"/>rage and brought in both priſoners and Armes of theirs, ſo as ſcarcely can be beleeved. Now the time of Treatie was almoſt ſpent, and it was eſpied (by ſome of my Lords men) that ſome man of ours at the back ſide of a houſe, ſtood where was a ditch and ſmall bancke caſt up, to play upon <hi>Salford,</hi> they tooke excep<g ref="char:EOLhyphen"/>tions againſt that which was done partly before that time, as alſo for taking downe a wooll pack, and laying it as it was the night before, a Souldier turning it downe to reſt himſelfe upon it; as alſo that a Countryman newly come into the Towne, and know<g ref="char:EOLhyphen"/>ing nothing of the Treatie, ſhot off his Musket; all which as they ſaid, was againſt the Law of Armes, which being excuſed, his Lordſhip anſwered, that he was informed, that during the time of the Treatie, his Souldiers had not made one ſhot, not taking
+<pb n="8" facs="tcp:60359:6"/>
+notice of the two men they kild us comming to the Towne, nor of the pillaging and plundering the Countrey, nor any of thoſe Acts of injuſtice and violence, and therefore it was reſolved, that wee would treate no more with him, neither would give him any Armes.</p>
+            </div>
+            <div n="Thursday" type="day">
+               <head>Thurſday.</head>
+               <p>Then began they freſhly to their worke againe on the thurſ<g ref="char:EOLhyphen"/>day morning about ten of the clocke, and immediately was diſ<g ref="char:EOLhyphen"/>charged two great Pieces of Ordnance againſt the new bancke that was rayſed along the water-ſide to command the Streete that leads up to the Chappell, they being diſcharged ſtrooke through and through a houſe of one that much favoured my Lord, but miſt the worke. From whence we playde ſo hotly, that the Canno-neere having againe chargde his Cannon, durſt not ſtay to diſcharge it, but ſo they ſtood all that night, and all the next day, and part of the next night, and they durſt not come neare unto them, yea they were got away the ſecond night, by what device I cannot tell. His Lordſhip ſent for a Parley againe, but the Souldiers would admit of none. We paſſe here through great difficulties, Maſter <hi>Butterworth,</hi> a prime man, is gone out for ayde towards <hi>London</hi> we heare, Maſter <hi>Hol<g ref="char:EOLhyphen"/>land</hi> the chiefe, upon good reaſon, thought fit to condeſcend, had drawne Maſter <hi>Booth</hi> and Maſter <hi>Edgerton</hi> with him: the Souldiers alſo that were ill affected, began to murmure and com<g ref="char:EOLhyphen"/>plaine, making this an excuſe, that the Countrey was ſpoyled, and they to ſave the Towne hazzarded their owne eſtates, ſo that we were even at a ſtand, which being taken notice of, the well affected Souldiers incouraged by Maſter <hi>Hyde</hi> (the mea<g ref="char:EOLhyphen"/>neſt of the Lievtenants) Captaine <hi>Bradſhaw,</hi> and Captaine <hi>Rof<g ref="char:EOLhyphen"/>worme,</hi> ſpoke openly, that if all the Gentlemen deſerted the cauſe, yet would they cleave unto it, and depend and reſt up<g ref="char:EOLhyphen"/>on the promiſe and engagement of the Parliament, for the ma<g ref="char:EOLhyphen"/>king good any loſſe or dammage that ſhould befall them.</p>
+               <p>Great and terrible words are given out againſt the Rogues of <hi>Manchester</hi> (as they pleaſe to terme us) calling us bloudy minded Roundheads: Lyes publiſhed by them, that Mr. <hi>John<g ref="char:EOLhyphen"/>ſon</hi>
+                  <pb n="9" facs="tcp:60359:6"/>
+one of our fellowes, was taken, hanged, and quartered, that Maſter <hi>Bowker</hi> our Conſtable was ſlaine, that our Towne was given up, and that the Queene had ſent great battering Pieces; Theſe and the like Reports went very farre into the Countrey, which hindered us of helpe, diſcouraged us within, ſo that had not the Almightie God (whom they ſcoffed a<g ref="char:EOLhyphen"/>gainſt in their reproachfull way) ſaying to this effect, we ſhall ſee where their Almightie Gods helpe is: I ſay, had not our Lord God been our preſent helpe, certainly in that very ex<g ref="char:EOLhyphen"/>tremitie wee had periſhed. For encouragement reſted onely in the breaſts of a company of poore deſpiſed Chriſtians, who with our Towne, our poore <hi>Mancheſter,</hi> ingaged themſelves againſt the great mightie ones of our Countie; For, for ought I can learne, there was not one Gentleman of Eminency, Knight or Lord, throughout our Shire, nor any eminent man of note, but either in perſon or beſt aſſiſtance he was againſt us. Great boaſts were made abroad, and our Towne condemned for proud and bloudy people, becauſe wee would not give up; and gene<g ref="char:EOLhyphen"/>rall notice was given (by my Lords friends) to all thoſe whom they call well affected people, with all innocent women and children, as they did tender their lives, to forgoe and leave the Towne; yea, and before this time, many of the chiefe of our Towne, had left and forſaken us; and our owne neighbour Towne <hi>Salford</hi> was up againſt us, keeping us in play with their continuall ſhot, ſo as the theeves had more libertie to rob, yea, hope of helpe now fayling, and no ayde appearing, hope of proviſion beginning to ſlacke, the villaines having ſpoylde all about them, what they could not eate and carry away, either for horſe or man, moſt ſhamefully they caſt abroad and ſpoyld it. It is confidently ſpoken, they have done ten thouſand pound of hurt. Alſo report came, that Maſter <hi>Leigh</hi> of <hi>Adlington,</hi> with foure hundred men, were at <hi>Stopport,</hi> ready to aſſiſt the Earle of <hi>Darbie.</hi> Maſter <hi>Ardene</hi> of <hi>Huden</hi> went out Eaſtward to cleare a paſſage, and had one of his men ſhot and dyed; more priſo<g ref="char:EOLhyphen"/>ners were this day brought into our Towne; The Cannon ſtill play through and upon divers houſes, and hurt none: this night paſſed on with great and generall feare, not knowing how wee ſhould ſubſiſt.</p>
+            </div>
+            <div n="Friday" type="day">
+               <pb n="10" facs="tcp:60359:7"/>
+               <head>Fryday.</head>
+               <p>Fryday morning the great Pieces were drawne out of <hi>Salford,</hi> the well affected peoples houſes there plundred, robbed, and ſpoyled, what they could not carry away, they mangled and puld in pieces; the former feares removed by Souldiers that were ſencible Chriſtians, they did vayle themſelves with va<g ref="char:EOLhyphen"/>lour, and gave out words, that if the head Gentlemen did ſtill perſiſt in deſtroying them, they would commit them, and there<g ref="char:EOLhyphen"/>upon Liſted themſelves to every place and Captaine apart. The Earle of <hi>Darbie</hi> ſent againe for a Parley, requiring to have the Trained and Freehold Bands with him made out two hun<g ref="char:EOLhyphen"/>dred, part whereof were with him alreadie, and that he requi<g ref="char:EOLhyphen"/>red them to defend the Kings perſon, the Lawes and Liberties of the Subjects. But anſwer was made, that they were bound by the Lawes of the Kingdome to keepe their Armes to defend themſelves againſt Atheiſts and Papiſts, which they were ſure was Law, and that he ſhould not have one inch of match but againſt their wills. This day it was knowne that Captaine <hi>Stan<g ref="char:EOLhyphen"/>diſh</hi> was ſlaine by peeping out of a doore in <hi>Salford,</hi> which was a great griefe to the Earle of <hi>Darbie.</hi> The ſame time was three or foure drowned neare our Towne, one of them (as it is repor<g ref="char:EOLhyphen"/>ted) had three Rings on his fingers, of an hundred and twentie pound value; three of our enemies men were buryed at <hi>Dreſbery,</hi> ſome foure miles from our Towne.</p>
+               <p>The Poſte came in this night and brought ſome good news, which did incourage us a little, who were till then almoſt out of courage; and alſo reported that Mr. <hi>Leigh</hi> his men would not follow him out of <hi>Cheſhire</hi> into <hi>Lancaſhire:</hi> here was two very remarkable things that hapned.</p>
+               <p>One <hi>Bloomely</hi> of Ardwick was cocking his Match to have ſhot and killed an honeſt man that came to aſſiſt the Town, the ſaid <hi>Bloomely</hi> (wreſting the Scriptures) that obedience (as if every obedience were lawfull) was better than ſacrifice, the ſaid <hi>Bloomely</hi> was this night killed by them that he ſo much defend<g ref="char:EOLhyphen"/>ed, going with his wife to milking, was by the Cavaliers ſhot into the belly; And though upon his knees he begged that they
+<pb n="11" facs="tcp:60359:7"/>
+would ſave his life, yet could not obtain it. Alſo a man of a bit<g ref="char:EOLhyphen"/>ter ſpirit, one <hi>Bradſhaw,</hi> fleeing out of our Town to our enemies, for ſpeaking ſome unadviſed words, was ſlain and ſo requited. Another man, a Conſtable of <hi>Bla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kley,</hi> would not admit of a Watch, till his houſe was plundred, and the worth of thirtie pound taken from him, and then he was pleaſed to alter his opi<g ref="char:EOLhyphen"/>nion. And concerning the Barn that was burnt with Haye and Corn by our Town ſide, it was worth an hundred and fiftie pound at leaſt, and he that owed it was noted to be a man that did (as much as in him lay) comply with the Earle of <hi>Darby:</hi> and was ſo requited by his Cavaliers. Severall other remarkable paſſages might be collected, as this afternoone the plunderers coming to an honeſt mans houſe intending to ſlay him, got in, and cockt his piſtoll or peternell, ready to diſcharge at the mans breaſt, but his fellow hitting him on the elbowe as if he had had ſomething to have ſaid to him, turned therewith the muſſell of his Piſtol upon one of his own Company and killed him, where<g ref="char:EOLhyphen"/>by the poore man had time to make an eſcape with his life. Now the laſt and greateſt project was by fire-bals, which as tis cre<g ref="char:EOLhyphen"/>dibly ſpoken, twenty pound was ſpent in the making of them, which were accordingly ſhot and caſt at our Town, but, God be praiſed, could take no effect, the Lord had reſpect to his own cauſe, and to his poore peoples prayers and teares; for otherwiſe certainly they had ſpoyled us, for no meanes for our overthrow was left unattempted.</p>
+            </div>
+            <div n="Saturday" type="day">
+               <head>Saterday.</head>
+               <p>This night paſt, with the like ſhooting as before, the next day being Saterday, a parley was moved for exchange of priſoners, which was aſſented unto, we had about foureſcore of theirs ta<g ref="char:EOLhyphen"/>ken: and that they might not want a compleat number, they had taken divers poore men that were about their ſeverall buſi<g ref="char:EOLhyphen"/>neſſes in the fields.</p>
+               <p>And had uſed our men which they had taken very inhumane<g ref="char:EOLhyphen"/>ly, and had threatned to take their lives, yet God preſerved them. Then his Lordſhip raiſed his ſiege, and went back with his baggage; for the Lord had cauſed them to return with loſſe
+<pb n="12" facs="tcp:60359:8"/>
+and diſgrace. Thoſe that were ſlain by us, and thoſe that ranne away from him were very many, and is not yet known.</p>
+            </div>
+            <div n="Sunday" type="day">
+               <head>Sunday.</head>
+               <p>The Lords day following, our men were upon their march, and many of them iſſued out and took much Armes that they had left behind them in divers places.</p>
+               <p>The report of their coming on was very terrible to my Lords Companies as tis ſaid.</p>
+            </div>
+            <div n="Monday" type="day">
+               <head>Munday.</head>
+               <p>Munday being come, our men being wearied out, went home: thoſe of the Villages neare hand, promiſed us to be ready againe at a very ſhort warning. The next morning a ſudden report was that our Town was again aſſaulted, which was very terrible to us we being naked; notice was given, and divers c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me preſently to our help, but it proved no ſuch matter. It is now ſaid that the Earle of <hi>Darby,</hi> with Earle <hi>Ryvers;</hi> are at <hi>Armeſchurch,</hi> and at <hi>Wiggen,</hi> and <hi>Warrington,</hi> and in <hi>Cheſhire,</hi> and are there raiſing Forces to come againſt us againe, our good God ſtand for us, we have no other hope nor help but from him; the cauſe con<g ref="char:EOLhyphen"/>cerns the whole County, and if the Lord give us over, none can then expect to ſtand, all hanging (for the moſt part) the o<g ref="char:EOLhyphen"/>ther way. We expect aid of horſe daily from <hi>London,</hi> with ſome great Peeces, which if the Lord ſend them us, we ſhall be ena<g ref="char:EOLhyphen"/>bled more powerfully to reſiſt. In the meane time with prayers and teares we intreat the help of Gods people by their prayers for this poore Town of <hi>Mancheſter.</hi>
+               </p>
+               <p>Beleeve my Reports, for I am confident that I ſpare to ſpeake out, becauſe I would be within the bounds of modeſtie and truth. My words are as the words of one riſen from the grave, and ſure you will heare him, they are my own ob<g ref="char:EOLhyphen"/>ſervations, and what I know in great part to be true, being an eye witneſſe: our troubles are ſo great, and fears ſo many, that we can ſcarcely tell what we do. Paſſe by the manner of my writing, for I cannot have time to peruſe what I have writ: and
+<pb n="13" facs="tcp:60359:8"/>
+though this and more be freſh in my memory, yet the time and circumſtance being different, I may omit ſomething in the or<g ref="char:EOLhyphen"/>der. I deſire that this our deliverance may be had in perpetuall remembrance, that the generations to come may heare and know what the Lord God hath done for poore ſinfull <hi>Man<g ref="char:EOLhyphen"/>chester.</hi> We daily looke for aſſiſtance from <hi>London,</hi> but our onely truſt and ſafe dependancie is in God: The Lord ſhield his poore people from the rage of the oppreſſors, and give us faith ſtill to depend and pray to God with faithfull hearts, that our King may comply his heart to and with the faithfull of the Land. I ſhall ore-run my ſelf, if any word or thing be wrong written, omitted, or left forth, let me intreat you to gather the ſence of it by what is written before or after if I have commit<g ref="char:EOLhyphen"/>ted any fault in writing, for I have not time to read it over. I pray you pray for us all, and the Lord be with you all, and keep us all ſtedfaſt to the day of his appearance. And ſo I reſt your lo<g ref="char:EOLhyphen"/>ving Friend.</p>
+               <closer>
+                  <dateline>
+                     <hi>Mancheſter,</hi> 
+                     <date> the 8. <hi>Octob.</hi> 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>Although there is nothing more deſireable to us whether we look upon our own particulars, or the preſent diſtractions and dangers of our Countrey, then that all our concluſions may con<g ref="char:EOLhyphen"/>duce to a quiet and peaceable ſettlement, for the effecting where<g ref="char:EOLhyphen"/>of we are not at all inſenſible how neceſſary it is for us to hold concurrance with thoſe Gentlemen with whom in all our con<g ref="char:EOLhyphen"/>ſultations hitherto we have communicated to the ſame end: yet inaſmuch as thoſe Articles hereunto annexed being as we con<g ref="char:EOLhyphen"/>ceive, totally againſt the priviledges of Parliament, and the Proteſtation we have already taken, and no way at all tending to the peace, but rather to the expoſing of us to more inſuing dangers, being that it is a fundamentall liberty of Parliament, to ſend for Delinquents in ſuch a way as they ſhall ſee needfull; and we conceive that the eight Article doth directly and plainly op<g ref="char:EOLhyphen"/>poſe it, being that now the Delmquents are ſo ſtrong that they cannot be ſent for in an ordinary way of proceeding: we there<g ref="char:EOLhyphen"/>fore hold our ſelves neceſſarily obliged as well in diſcharge of our ſelves, as duty to our Countrey, utterly to diſavow the ſaid
+<pb n="14" facs="tcp:60359:9" rendition="simple:additions"/>
+Articles. To which end we have publiſhed this our Declaration, to which we have ſubſcribed our names this 8. of <hi>Octob.</hi> 1642.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>John Hotham.</hi>
+                        </item>
+                        <item>
+                           <hi>Matthew Boynton.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Fowles.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Remington.</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Boynton.</hi>
+                        </item>
+                        <item>
+                           <hi>John Anlaby.</hi>
+                        </item>
+                        <item>
+                           <hi>Arthur Beckwith.</hi>
+                        </item>
+                        <item>
+                           <hi>Phell. Saltmerſe.</hi>
+                        </item>
+                        <item>
+                           <hi>Jeffery Gaile.</hi>
+                        </item>
+                        <item>
+                           <hi>William Darby.</hi>
+                        </item>
+                        <item>
+                           <hi>John Boucher.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Notcliff.</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Laſſels.</hi>
+                        </item>
+                        <item>
+                           <hi>John Liſter.</hi>
+                        </item>
+                        <item>
+                           <hi>John Dent.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Wickermer.</hi>
+                        </item>
+                        <item>And foure more.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
